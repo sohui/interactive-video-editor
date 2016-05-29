@@ -16,4 +16,8 @@
  * Created by wekair on 16-5-29.
  */
 
+(function(){
+
+})();
+
 console.log("Hello World!");
