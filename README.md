@@ -1,2 +1,4 @@
 # interactive-video-editor
-Interactive Video Editor
+interactive video editor
+
+Author: Sohui Gu
